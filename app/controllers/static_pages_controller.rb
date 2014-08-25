@@ -4,4 +4,7 @@ class StaticPagesController < ApplicationController
 
   def help
   end
+
+  def static_pages_about_path
+  end
 end
