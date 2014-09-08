@@ -7,4 +7,7 @@ class StaticPagesController < ApplicationController
 
   def static_pages_about_path
   end
+
+  def contact
+  end
 end
